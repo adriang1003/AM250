@@ -1,0 +1,10 @@
+To log into school's supercomuter (grape):
+(1) ssh agarc140@gateway.soe.ucsc.edu
+(2) ssh agarc140@grape.soe.ucsc.edu
+(3) Password: Number#15!
+
+To log into school's supercomuter (hummingbird):
+(1) ssh agarc140@hb.ucsc.edu
+(2) Password: RougeNumber#15
+
+If I am not on campus, I have to use a VPN
