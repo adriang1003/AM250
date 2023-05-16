@@ -1,8 +1,21 @@
- Processor            0  received:            1
- Processor            4  received:            5
- Processor            5  received:            6
- Processor            3  received:            4
- Processor            6  received:            7
- Processor            7  received:            0
- Processor            1  received:            2
- Processor            2  received:            3
+               Processor            0  contains list:            0           1           2           3           4           5           6           7           8           9
+ (LEFT SHIFT)  Processor            0  contains list:            1           2           3           4           5           6           7           8           9           0
+ (LEFT SHIFT)  Processor            0  contains list:            2           3           4           5           6           7           8           9           0           1
+ (LEFT SHIFT)  Processor            0  contains list:            3           4           5           6           7           8           9           0           1           2
+ (LEFT SHIFT)  Processor            0  contains list:            4           5           6           7           8           9           0           1           2           3
+ (LEFT SHIFT)  Processor            0  contains list:            5           6           7           8           9           0           1           2           3           4
+ (LEFT SHIFT)  Processor            0  contains list:            6           7           8           9           0           1           2           3           4           5
+ (LEFT SHIFT)  Processor            0  contains list:            7           8           9           0           1           2           3           4           5           6
+ (LEFT SHIFT)  Processor            0  contains list:            8           9           0           1           2           3           4           5           6           7
+ (LEFT SHIFT)  Processor            0  contains list:            9           0           1           2           3           4           5           6           7           8
+ (LEFT SHIFT)  Processor            0  contains list:            0           1           2           3           4           5           6           7           8           9
+ (RIGHT SHIFT) Processor            0  contains list:            9           0           1           2           3           4           5           6           7           8
+ (RIGHT SHIFT) Processor            0  contains list:            8           9           0           1           2           3           4           5           6           7
+ (RIGHT SHIFT) Processor            0  contains list:            7           8           9           0           1           2           3           4           5           6
+ (RIGHT SHIFT) Processor            0  contains list:            6           7           8           9           0           1           2           3           4           5
+ (RIGHT SHIFT) Processor            0  contains list:            5           6           7           8           9           0           1           2           3           4
+ (RIGHT SHIFT) Processor            0  contains list:            4           5           6           7           8           9           0           1           2           3
+ (RIGHT SHIFT) Processor            0  contains list:            3           4           5           6           7           8           9           0           1           2
+ (RIGHT SHIFT) Processor            0  contains list:            2           3           4           5           6           7           8           9           0           1
+ (RIGHT SHIFT) Processor            0  contains list:            1           2           3           4           5           6           7           8           9           0
+ (RIGHT SHIFT) Processor            0  contains list:            0           1           2           3           4           5           6           7           8           9
